@@ -117,10 +117,5 @@
 
 ---
 
-## Используемые библиотеки
 
-- Python  
-- OpenCV  
-- NumPy  
-- Google Colab `files` (для загрузки видео)
 
